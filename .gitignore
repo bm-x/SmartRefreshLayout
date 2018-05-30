@@ -8,3 +8,4 @@ gradle
 /gradlew.bat
 /gradle.properties
 /bintrayUpload-key.bat
+/.idea
